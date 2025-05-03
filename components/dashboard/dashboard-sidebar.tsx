@@ -31,7 +31,7 @@ export function DashboardSidebar() {
       <SidebarHeader>
         <div className="flex items-center gap-2 px-4 py-2">
           <BarChart3 className="h-6 w-6" />
-          <span className="font-bold text-lg">Acme Inc</span>
+          <span className="font-bold text-lg">8bit Dashboard Inc</span>
         </div>
       </SidebarHeader>
       <SidebarContent>
@@ -98,7 +98,7 @@ export function DashboardSidebar() {
               <AvatarFallback>JD</AvatarFallback>
             </Avatar>
             <div>
-              <p className="text-sm font-medium">John Doe</p>
+              <p className="text-sm font-medium">Sriram S</p>
               <p className="text-xs text-muted-foreground">Admin</p>
             </div>
           </div>
